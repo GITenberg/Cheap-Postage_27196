@@ -1,0 +1,27 @@
+_repo: Cheap-Postage_27196
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Leavitt, Joshua
+    birthdate: 1794
+    deathdate: 1873
+    gutenberg_agent_id: '32528'
+    url: http://www.gutenberg.org/2009/agents/32528
+description: ''
+gutenberg_issued: '2008-11-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27196'
+  lccn: 05027895
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HE'
+- !lcsh 'Postal rates'
+title: Cheap Postage
+url: http://www.gutenberg.org/ebooks/27196
